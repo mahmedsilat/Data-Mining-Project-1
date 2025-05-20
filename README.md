@@ -1,0 +1,1 @@
+This is my Data Mining and Exploration Final Project where I got hands-on experince with dealing with datasets and performing different data mining techniques to get decent results. My project was on predicting the success of Kickstarter prjects using different parameters.
